@@ -45,7 +45,6 @@ page, we add code around the original text we want to display and the browser th
 - Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. 
 ##### Block Elements #####
 - Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
-- Examples of block elements are <h1>, <p>, <ul>, and <li>.
 ##### Inline Elements #####
 - Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 ##### Grouping text & elements in a block #####
