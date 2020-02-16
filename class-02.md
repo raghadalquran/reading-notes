@@ -6,11 +6,11 @@
 - HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
 - They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
 - When creating a web page, you add tags (known as markup) to the contents of the page. These tags provide extra meaning and allow browsers to show users the appropriate structure for the page.
-- Some of tags: <p> , <b> , <i> , <sup> , <br /> , <hr /> .
+- Some of tags: < p > , < b > , < i > , < sup > , < br /> , < hr /> .
 *Content management systems and HTML editors such as Dreamweaver usually have two views of the page you are creating: a visual editor and a code view.*
  - Visual editors often resemble word processors. Although each editor will differ slightly, there are some features that are common to most editors that allow you to control the presentation of text.
 - Code views show you the code created by the visual editor so you can manually edit it, or so you can just enter new code yourself. 
-- Some of semantic markup: <strong> , <em> , <blockquote> , <q> .
+- Some of semantic markup: < strong> , < em> , < blockquote> , < q> .
 
 
 ### Chapter 10 ###
