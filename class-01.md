@@ -78,5 +78,47 @@ page, we add code around the original text we want to display and the browser th
 - You can differentiate between pieces of information using size, color, and style. 
 - You can use grouping and similarity to help simplify the information you present.
 
+## JAVASCRIPT SUMMARY ##
 
+## Introduction ##
+#### How JAVASCRIPT makes web pages more interactive ? ####
+1. ACCESS CONTENT 
+You can use JavaScript to select any element, attribute, or text from an HTML page. For example: 
+• Select the text inside all of the <hl> elements on a page • Select any elements that have a c 1 ass attribute with a value of note • Find out what was entered into a text input whose id attribute has a value of ema i 1 
+2. MODIFY CONTENT 
+You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example: 
+• Add a paragraph of text after the first <hl> element • Change the value of c 1 ass attributes to trigger new CSS rules for those elements • Change the size or position of an <i mg> element 
+3. PROGRAM RULES 
+You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page. For example: 
+• A gallery script could check which image a user clicked on and display a larger version of that image. • A mortgage calculator could collect values from a form, perform a calculation, and display repayments. • An animation could check the dimensions of the browser window and move an image to the bottom of the viewable area (also known as the viewport). 
+4. REACT TO EVENTS 
+You can specify that a script should run when a specific event has occurred. For example, it could be run when: 
+• A button is pressed 
+• A link is clicked (or tapped) on 
+• A cursor hovers over an element 
+• Information is added to a form 
+• An interval of time has passed 
+• A web page has finished loading 
+
+## Chapter 1 ##
+#### What is a script and how do i create one ?####
+- A script is a series of instructions that the computer can follow in order to achieve a goal. 
+- Each time the script runs, it might only use a subset of all the instructions. 
+- Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically. 
+- To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help). 
+
+#### How do computers fit in with the world around them ? ####
+- Computers create models of the worid using data.
+- The models use objects to represent physical things.
+- Programmers can write code to say "when this events occurs,run that code".
+- Web browser use HTML markup to create a model of the web page.
+- To make web pages interactive,you write code that uses the browser's model of the web page.
+
+**WEB BROWSERS ARE PROGRAMS BUILT USING OBJECTS**
+**THE DOCUMENT OBJECT REPRESENTS AN HTML PAGE**
+
+#### How do i write a script for a web page ? ####
+- It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the .js extension. 
+- The HTML <script> element is used in HTML pages to tell the browser to load the JavaScript file (rather like the <link> element can be used to load a CSS file). 
+- If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created. 
 
