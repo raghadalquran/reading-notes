@@ -20,10 +20,10 @@ page, we add code around the original text we want to display and the browser th
 - HTML pages are text documents.
 - HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
 - Tags are often referred to as elements.
-- Tags usually come in pairs. The opening tag denotes  X the start of a piece of content; the closing tag denotes the end.
-- Opening tags can carry attributes, which tell us more  X about the content of that element.
+- Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+- Opening tags can carry attributes, which tell us more about the content of that element.
 - Attributes require a name and a value.
-- To learn HTML you need to know what tags are  X available for you to use, what they do, and where they can go.
+- To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 
 ## Chapter 8 ##
 ##### The Evolution of html #####
@@ -45,7 +45,7 @@ page, we add code around the original text we want to display and the browser th
 - Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. 
 ##### Block Elements #####
 - Some elements will always appear to start on a new line in the browser window. These are known as block level elements. 
-- Examples of block elements are <h1>, <p>, <ul>, and <li>.
+- Examples of block elements are < h1 >, < p >, < ul >, and < li >.
 ##### Inline Elements #####
 - Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 - Examples of inline elements are <a>, <b>, <em>, and <img>.
