@@ -6,11 +6,11 @@
 - HTML elements are used to describe the structure of the page (e.g. headings, subheadings, paragraphs).
 - They also provide semantic information (e.g. where emphasis should be placed, the definition of any acronyms used, when given text is a quotation).
 - When creating a web page, you add tags (known as markup) to the contents of the page. These tags provide extra meaning and allow browsers to show users the appropriate structure for the page.
-- Some of tags: < p > , < b > , < i > , < sup > , < br /> , < hr /> .
+- Some of tags: '< p > , < b > , < i > , < sup > , < br /> , < hr />'  .
 *Content management systems and HTML editors such as Dreamweaver usually have two views of the page you are creating: a visual editor and a code view.*
  - Visual editors often resemble word processors. Although each editor will differ slightly, there are some features that are common to most editors that allow you to control the presentation of text.
 - Code views show you the code created by the visual editor so you can manually edit it, or so you can just enter new code yourself. 
-- Some of semantic markup: < strong> , < em> , < blockquote> , < q> .
+- Some of semantic markup: '< strong> , < em> , < blockquote> , < q>' .
 
 
 ### Chapter 10 ###
@@ -21,9 +21,9 @@
 1. CSS1 was released in 1996 
 2. CSS2 followed two years later.
 3. Work on CSS3 has been ongoing but the major browsers have already started to implement it.
-- Different types of selectors allow you to target your  X rules at different elements.
-- Declarations are made up of two parts: the properties  X of the element that you want to change, and the values of those properties. For example, the font-family property sets the choice of font, and the value arial specifies Arial as the preferred typeface.
-- CSS rules usually appear in a separate document,  X although they may appear within an HTML page.
+- Different types of selectors allow you to target your rules at different elements.
+- Declarations are made up of two parts: the properties  of the element that you want to change, and the values of those properties. For example, the font-family property sets the choice of font, and the value arial specifies Arial as the preferred typeface.
+- CSS rules usually appear in a separate document, although they may appear within an HTML page.
 
 
  
@@ -46,7 +46,7 @@ strings (text), and Boolean values (true or false).
 - Each time a script enters a new execution context, there are two phases of activity: 
 1. PREPARE.
 2. 2: EXECUTE.
-- In the interpreter, each execution context has its own va ri ables object. It holds the variables, functions, and parameters available within it. Each execution context can also access its parent's v a ri ables object.
+- In the interpreter, each execution context has its own va ri ables object. It holds the variables, functions, and parameters available within it. Each execution context can also access its parent's variables object.
 - If a JavaScript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code. 
 - Error objects can help you find where your mistakes are and browsers have tools to help you read them.
 - Now that you know what an error is and how the browser treats them, there are two things you can do with the errors. 
