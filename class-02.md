@@ -40,20 +40,13 @@ strings (text), and Boolean values (true or false).
 - Expressions evaluate into a single value.
 - Expressions rely on operators to calculate a value. 
 
-### Chapter 10 ###
-- To find the source of an error, it helps to know how scripts are processed. The order in which statements are executed can be complex; some tasks cannot complete until another statement or function has been run.
-- The JavaScript interpreter uses the concept of execution contexts. There is one global execution context; plus, each function creates a new new execution context. They correspond to variable scope.
-- Each time a script enters a new execution context, there are two phases of activity: 
-1. PREPARE.
-2. 2: EXECUTE.
-- In the interpreter, each execution context has its own va ri ables object. It holds the variables, functions, and parameters available within it. Each execution context can also access its parent's variables object.
-- If a JavaScript statement generates an error, then it throws an exception. At that point, the interpreter stops and looks for exception-handling code. 
-- Error objects can help you find where your mistakes are and browsers have tools to help you read them.
-- Now that you know what an error is and how the browser treats them, there are two things you can do with the errors. 
-1. DEBUG THE SCRIPT TO FIX ERRORS.
-2. HANDLE ERRORS GRACEFULLY.
-- Debugging is about deduction: eliminating potential causes of an error. Here is a workflow for techniques you will meet over the next 20 pages. Try to narrow down where the problem might be, then look for clues. 
-- The JavaScript console will tell you when there is a problem with a script, where to look for the problem, and what kind of issue it seems to be. 
-- The JavaScript console is just one of several developer tools that are found in all modern browsers. 
-- If you know your code might fail, use try, catch, and finally. Each one is given its own code block. 
-- If you know something might cause a problem for your script, you can generate your own errors before the interpreter creates them.
+### Chapter 4 ###
+- Conditional statements allow your code to make decisions about what to do next. 
+- Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands. 
+- Logical operators allow you to combine more than one set of comparison operators.
+- if ... else statements allow you to run one set of code if a condition is true, and another if it is false. 
+- switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match). 
+- Data types can be coerced from one type to another. 
+- All values evaluate to either truthy or falsy. 
+- There are three types of loop: for, while, and do ... while. Each repeats a set of statements. 
+
