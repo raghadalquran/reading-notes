@@ -26,3 +26,9 @@ inside <dl> we put <dt> or <dd>
 - If you specify a width for a box, then the borders, margin, and padding are added to its width and height.
 
 
+## JAVASCRIPT Book ##
+### Chapter 4 ###
+- I read about IF ... ELSE statement.
+https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://bestonetechnologies.com/wp-content/uploads/2018/11/ifelse.png
+
+![ifStatmentImage](https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://bestonetechnologies.com/wp-content/uploads/2018/11/ifelse.png)
