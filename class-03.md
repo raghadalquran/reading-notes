@@ -29,6 +29,8 @@ inside <dl> we put <dt> or <dd>
 ## JAVASCRIPT Book ##
 ### Chapter 4 ###
 - I read about IF ... ELSE statement.
-https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://bestonetechnologies.com/wp-content/uploads/2018/11/ifelse.png
+![switchStatmentImage](https://www.bookofnetwork.com/images/javascript-images/JS_switch-syntax_20Sep16_1827.png)
 
-![ifStatmentImage](https://cdn.shortpixel.ai/client/q_glossy,ret_img/http://bestonetechnologies.com/wp-content/uploads/2018/11/ifelse.png)
+![ifStatmentImage](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-statement.png)
+- And i read about SWITCH statement.
+
