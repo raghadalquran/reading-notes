@@ -36,5 +36,7 @@
  
  
  **There are three types of loop: for, while, and do ... while. Each repeats a set of statements.**
+ 
+
  ![JavaScriptLoops](https://image.slidesharecdn.com/loopsinjavascript-150601094434-lva1-app6891/95/loops-in-java-script-2-638.jpg?cb=1523007492)
 
