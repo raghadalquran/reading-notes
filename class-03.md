@@ -5,11 +5,8 @@
 
 - There are **three types** of HTML lists: *ordered*, *unordered*, and *definition*. 
 1. Ordered lists use numbers. 
-inside '<ol>' we put '<li>'
 2. Unordered lists use bullets.
-inside <ul> we put <li>
 3. Definition lists are used to define terminology.
-inside <dl> we put <dt> or <dd>
 - Lists can be nested inside one another
   
 ## Chapter 13 ##
@@ -30,11 +27,11 @@ inside <dl> we put <dt> or <dd>
 ### Chapter 4 ###
  **IF ... ELSE Statement**
  
-![switchStatmentImage](https://www.bookofnetwork.com/images/javascript-images/JS_switch-syntax_20Sep16_1827.png)
+ ![ifStatmentImage](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-statement.png)
 
 
 **SWITCH statement**
 
-![ifStatmentImage](https://www.javascripttutorial.net/wp-content/uploads/2016/08/JavaScript-if-statement.png)
+![switchStatmentImage](https://www.bookofnetwork.com/images/javascript-images/JS_switch-syntax_20Sep16_1827.png)
  
 
