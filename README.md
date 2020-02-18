@@ -7,7 +7,7 @@
 | Read01 | Link :  [class-01](https://raghadalquran.github.io/reading-notes/class-01)    | 
 | Read02 | Link :  [class-02](https://raghadalquran.github.io/reading-notes/class-02)    |  
 | Read03 | Link :  [class-03](https://raghadalquran.github.io/reading-notes/class-03)    |   
-| Read04 | Link :  [class-04]()    | 
+| Read04 | Link :  [class-04](https://raghadalquran.github.io/reading-notes/class-04)    | 
 | Read05 | Link :  [class-05]()    |  
 | Read06 | Link :  [class-06]()    | 
 | Read07 | Link :  [class-07]()    | 
