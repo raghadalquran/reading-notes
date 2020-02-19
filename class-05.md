@@ -38,7 +38,6 @@
 - If you want to use a wider range of typefaces there are  X several options, but you need to have the right license to use them.
 - You can control the space between lines of text,  X individual letters, and words. Text can also be aligned to the left, right, center, or justified. It can also be indented.
 - You can use pseudo-classes to change the style of an  X element when a user hovers over or clicks on text, or when they have visited a link.
-![Typeface_Terminology](https://wpcbg.uk/wp-content/uploads/2016/03/type-terms-diagram.jpg)
 #### Attribute Selector ####
 ![att_selector](https://www.designzzz.com/wp-content/uploads/2015/06/CSS-selectors-cheat-sheet.png)
 
