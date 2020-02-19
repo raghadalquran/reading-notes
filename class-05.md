@@ -1,11 +1,11 @@
 # SUMMARY #
   
-  ### Chapte 5  ###
+  ## Chapte 5 : “Images” ##
 - Where an image is placed in the code will affect how it is displayed.
 - Here are three examples of image placement that produce different results:
-1: before a paragraph The paragraph starts on a new line after the image.
-2: Inside the start of a paragraph The first row of text aligns with the bottom of the image.
-3: In the middle of a paragraph The image is placed between the words of the paragraph that it appears in.
+1. before a paragraph The paragraph starts on a new line after the image.
+2. Inside the start of a paragraph The first row of text aligns with the bottom of the image.
+3. In the middle of a paragraph The image is placed between the words of the paragraph that it appears in.
 - Where you place the image in the code is important because browsers show HTML elements in one of two ways:
 1. Block elements always appear on a new line. 
 2. Inline elements sit within a block level element and do not start on a new line.
@@ -19,7 +19,7 @@
 - You must always specify a src attribute to indicate the source of an image and an alt attribute to describe the content of an image.
 - Photographs are best saved as JPEGs; illustrations or logos that use flat colors are better saved as GIFs
 
-### Chapter 11 : “Color” ###
+## Chapter 11 : “Color” ##
 
 
 - Every color on a computer screen is created by mixing amounts of red, green, and blue.
@@ -29,7 +29,7 @@
 - CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
 - CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
 
-### Chapter 12 : “Text” ###
+## Chapter 12 : “Text” ##
 
 ![Typeface_Terminology](https://wpcbg.uk/wp-content/uploads/2016/03/type-terms-diagram.jpg)
 
