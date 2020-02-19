@@ -1,6 +1,6 @@
 # SUMMARY #
   
-  ### Chapter 5 ###
+  ### Chapte 5  ###
 - Where an image is placed in the code will affect how it is displayed.
 - Here are three examples of image placement that produce different results:
 1: before a paragraph The paragraph starts on a new line after the image.
