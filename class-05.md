@@ -25,4 +25,9 @@
 
 - Every color on a computer screen is created by mixing amounts of red, green, and blue.
 - To find the color you want, you can use a color picker.
+- There are three ways to specify colors in CSS:RGB values, hex codes, and color names.
+- It is important to ensure that there is enough contrast between any text and the background color (otherwise people will not be able to read your content).
+- CSS3 has introduced an extra value for RGB colors to indicate opacity. It is known as RGBA.
+- CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
+
 
