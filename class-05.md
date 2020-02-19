@@ -1,7 +1,6 @@
 # SUMMARY #
-
-### Chapter 4 : “Images”  ###
-
+  
+  ### Chapter 5 ###
 - Where an image is placed in the code will affect how it is displayed.
 - Here are three examples of image placement that produce different results:
 1: before a paragraph The paragraph starts on a new line after the image.
@@ -31,6 +30,9 @@
 - CSS3 also allows you to specify colors as HSL values, with an optional opacity value. It is known as HSLA.
 
 ### Chapter 12 : “Text” ###
+
+![Typeface_Terminology](https://wpcbg.uk/wp-content/uploads/2016/03/type-terms-diagram.jpg)
+
 - There are properties to control the choice of font, size,  X weight, style, and spacing.
 - There is a limited choice of fonts that you can assume  X most people will have installed.
 - If you want to use a wider range of typefaces there are  X several options, but you need to have the right license to use them.
