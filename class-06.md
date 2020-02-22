@@ -24,3 +24,7 @@
 - From an element node, you can access and update its content using properties such as textContent and i nnerHTML or using DOM manipulation techniques. 
 - An element node can contain multiple text nodes and child elements that are siblings of each other. 
 ![dom_tree](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
+
+
+
+### And also i read the article that talk about 10 steps to learn anything quickly, 10 steps to learn your Next Programming Language (NEW). ###
