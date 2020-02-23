@@ -10,6 +10,7 @@
 - JavaScript also has several built-in objects such as  String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts. 
 - Arrays and objects can be used to create complex data sets (and both can contain the other). 
 
+![obj](https://miro.medium.com/max/616/1*S9Bi34EoJeYcpxPnH1IycQ.jpeg)
 
 ## Chapter 6: “Tables” ##
 
@@ -18,3 +19,15 @@
 - Inside each row there are a number of cells represented by the <  td> element (or < th > if it is a header).
 - You can make cells of a table span more than one row or column using the rowspan and colspan attributes. 
 - For long tables you can split the table into a < thead >, < tbody >, and < tfoot >.
+
+## Article ##
+- Domain modeling is the process of creating a conceptual model for a specific problem. And a domain model that's articulated well can verify and validate your understanding of that problem.
+
+- Here's some tips to follow when building your own domain models.
+
+1. When modeling a single entity that'll have many instances, build self-contained objects with the same attributes and behaviors.
+2. Model its attributes with a constructor function that defines and initializes properties.
+3. Model its behaviors with small methods that focus on doing one job well.
+4. Create instances using the new keyword followed by a call to a constructor function.
+5. Store the newly created object in a variable so you can access its properties and methods from outside.
+6. Use the this variable within methods so you can access the object's properties and methods from inside.
