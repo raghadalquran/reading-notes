@@ -3,6 +3,7 @@
 ## HTML book: ##
 
 ### Chapter 16: “Images” ###
+- Specifying **image sizes** helps pages to load more *smoothly* because the HTML and CSS code will often load before the images, and telling the browser how much space to leave for an image allows it to render the rest of the page without waiting for the image to download.
 - Images can be **aligned** both *horizontally* and *vertically* using CSS.
 - You can use a **background image** behind the box created by any element on a page. 
 - Background images can appear just once or be repeated across the background of the box.
