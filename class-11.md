@@ -22,3 +22,4 @@
 - FTP programs allow you to transfer files from your local computer to your web server.
 - Many companies provide platforms for blogging, email newsletters, e-commerce and other popular website tools (to save you writing them from scratch).
 
+**And i read the article (Video and Audio APIs).**
