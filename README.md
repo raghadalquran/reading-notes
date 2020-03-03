@@ -17,6 +17,6 @@
 | Read11 | Link :  [class-11](https://raghadalquran.github.io/reading-notes/class-11)    |  
 | Read12 | Link :  [class-12](https://raghadalquran.github.io/reading-notes/class-12)    | 
 | Read13 | Link :  [class-13](https://raghadalquran.github.io/reading-notes/class-13)    | 
-| Read14 | Link :  [class-14]()    |  
+| Read14 | Link :  [class-14](https://raghadalquran.github.io/reading-notes/class-14)    |  
 | Read15 | Link:   [class-15]()    | 
     
